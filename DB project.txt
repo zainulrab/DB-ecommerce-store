@@ -1,0 +1,19 @@
+DONE:
+PROJECT SETUP
+FILES SETUP
+LIBRARIES SETUP
+TO BE DONE
+SQL:
+make database from xamp
+make a new php class //DATABSE CONTROLLER(database connection properties).
+coneection property
+call constructor function
+define all in constructor class
+
+controller object
+make php class for connection in index file
+
+
+
+
+
