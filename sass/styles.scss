@@ -1,2 +1,8 @@
-/*Sass Template*/
-@import url('https://fonts.googleapis.com/css2?family=Baloo+2&family=Raleway&family=Rubik&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&family=Raleway&family=Rubik&display=swap');
+
+/*SAAS Template*/
+@import './include/variables.scss';
+@import './include/global.scss';
+@import './include/typography.scss';
+@import './include/color.scss';
+@import './include/top-sales.scss';
